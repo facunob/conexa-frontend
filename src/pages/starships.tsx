@@ -3,7 +3,7 @@ import React from 'react';
 const Starships = () => {
     return (
         <div>
-            stasrshgips
+            Starships Page...
         </div>
     );
 };

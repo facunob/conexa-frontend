@@ -11,7 +11,7 @@ const Favorites = () => {
 
     return (
         <>
-            <h5 className='card-title mb-4'>{`Fav Planets`}</h5>
+            <h5 className='card-title mb-4'>{`Favorite Planets`}</h5>
             <div className="row">
                 {items.map(planet => (
                     <Planet key={planet.name} planetItem={planet} />
